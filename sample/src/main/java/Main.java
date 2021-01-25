@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("Yeah man");
-        A a = new A();
+        FizzBuzz a = new FizzBuzz();
         String gf = a.play(3);
         System.out.println(gf);
     }

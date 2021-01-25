@@ -1,4 +1,4 @@
-public class A {
+public class FizzBuzz {
 
 
     public String play(int number) {
